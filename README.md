@@ -1,6 +1,6 @@
 # AI Resume Ranking System
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-App-blue)](https://streamlit.io/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-App-blue)]((https://ai-resume-ranking-system-jhukfgy3rn33cjnbxuyfsg.streamlit.app/))
 
 ## Overview
 
