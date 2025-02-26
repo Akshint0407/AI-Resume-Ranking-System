@@ -26,7 +26,7 @@ See [requirements.txt](requirements.txt) for dependencies.
 
 1. Clone this repository.
 2. Install dependencies using `pip install -r requirements.txt`.
-3. Run the app with `streamlit run main.py`.
+3. Run the app with `streamlit run resume_app.py`.
 
 ## Usage
 
