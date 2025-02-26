@@ -14,9 +14,10 @@ This project is an AI-powered resume screening and ranking system designed to au
 
 ## Screenshots
 
-![App_Screenshot](insert_screenshot_1_here)
-![Resume_Upload](insert_screenshot_2_here)
-![Ranked_Results](insert_screenshot_3_here)
+![App_Screenshot](https://github.com/Akshint0407/AI-Resume-Ranking-System/blob/main/App_Screenshot.png)
+![Resume_Upload](https://github.com/Akshint0407/AI-Resume-Ranking-System/blob/main/Resume_Upload.png)
+
+![Ranked_Results](https://github.com/Akshint0407/AI-Resume-Ranking-System/blob/main/Ranking_Results.png)
 
 ## Requirements
 
