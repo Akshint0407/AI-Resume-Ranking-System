@@ -14,9 +14,9 @@ This project is an AI-powered resume screening and ranking system designed to au
 
 ## Screenshots
 
-![App Screenshot](insert_screenshot_1_here)
-![Resume Upload](insert_screenshot_2_here)
-![Ranked Results](insert_screenshot_3_here)
+![App_Screenshot](insert_screenshot_1_here)
+![Resume_Upload](insert_screenshot_2_here)
+![Ranked_Results](insert_screenshot_3_here)
 
 ## Requirements
 
