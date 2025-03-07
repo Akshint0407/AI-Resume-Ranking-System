@@ -46,5 +46,6 @@ Contributions are welcome! Please submit pull requests with detailed explanation
 
 ## License
 
-[Insert License Here]
+[Apache 2.0 License](LICENSE) - see LICENSE for details
+
 
